@@ -1,0 +1,591 @@
+{
+  "Upgrade": [
+    {
+      "id": 0,
+      "level": 1,
+      "money": 30000000,
+      "materials": 250,
+      "masks": 25,
+      "gasoline": 20,
+      "armour": 0,
+      "people": 0,
+      "ammo": 0,
+      "price": 60000
+    },
+    {
+      "id": 0,
+      "level": 2,
+      "money": 50000000,
+      "materials": 500,
+      "masks": 50,
+      "gasoline": 40,
+      "armour": 0,
+      "people": 0,
+      "ammo": 0,
+      "price": 30000000
+    },
+    {
+      "id": 0,
+      "level": 3,
+      "money": 100000000,
+      "materials": 1500,
+      "masks": 150,
+      "gasoline": 120,
+      "armour": 0,
+      "people": 0,
+      "ammo": 0,
+      "price": 50000000
+    },
+    {
+      "id": 0,
+      "level": 4,
+      "money": 150000000,
+      "materials": 3000,
+      "masks": 300,
+      "gasoline": 240,
+      "armour": 0,
+      "people": 0,
+      "ammo": 0,
+      "price": 100000000
+    },
+    {
+      "id": 0,
+      "level": 5,
+      "money": 250000000,
+      "materials": 6000,
+      "masks": 600,
+      "gasoline": 480,
+      "armour": 0,
+      "people": 0,
+      "ammo": 0,
+      "price": 150000000
+    },
+    {
+      "id": 0,
+      "level": 6,
+      "money": 500000000,
+      "materials": 12000,
+      "masks": 1200,
+      "gasoline": 960,
+      "armour": 0,
+      "people": 0,
+      "ammo": 0,
+      "price": 250000000
+    },
+    {
+      "id": 0,
+      "level": 7,
+      "money": 1000000000,
+      "materials": 15000,
+      "masks": 1500,
+      "gasoline": 1300,
+      "armour": 0,
+      "people": 0,
+      "ammo": 0,
+      "price": 500000000
+    },
+    {
+      "id": 1,
+      "level": 1,
+      "money": 0,
+      "materials": 0,
+      "masks": 0,
+      "gasoline": 0,
+      "armour": 0,
+      "people": 0,
+      "ammo": 1500,
+      "price": 500000
+    },
+    {
+      "id": 1,
+      "level": 2,
+      "money": 0,
+      "materials": 0,
+      "masks": 0,
+      "gasoline": 0,
+      "armour": 0,
+      "people": 0,
+      "ammo": 3000,
+      "price": 25000000
+    },
+    {
+      "id": 1,
+      "level": 3,
+      "money": 0,
+      "materials": 0,
+      "masks": 0,
+      "gasoline": 0,
+      "armour": 0,
+      "people": 0,
+      "ammo": 5000,
+      "price": 50000000
+    },
+    {
+      "id": 1,
+      "level": 4,
+      "money": 0,
+      "materials": 0,
+      "masks": 0,
+      "gasoline": 0,
+      "armour": 0,
+      "people": 0,
+      "ammo": 10000,
+      "price": 100000000
+    },
+    {
+      "id": 1,
+      "level": 5,
+      "money": 0,
+      "materials": 0,
+      "masks": 0,
+      "gasoline": 0,
+      "armour": 0,
+      "people": 0,
+      "ammo": 15000,
+      "price": 200000000
+    },
+    {
+      "id": 1,
+      "level": 6,
+      "money": 0,
+      "materials": 0,
+      "masks": 0,
+      "gasoline": 0,
+      "armour": 0,
+      "people": 0,
+      "ammo": 30000,
+      "price": 500000000
+    },
+    {
+      "id": 1,
+      "level": 7,
+      "money": 0,
+      "materials": 0,
+      "masks": 0,
+      "gasoline": 0,
+      "armour": 0,
+      "people": 0,
+      "ammo": 1000000,
+      "price": 1000000000
+    },
+    {
+      "id": 2,
+      "level": 1,
+      "money": 0,
+      "materials": 0,
+      "masks": 0,
+      "gasoline": 0,
+      "armour": 0,
+      "people": 50,
+      "ammo": 0,
+      "price": 50000000
+    },
+    {
+      "id": 2,
+      "level": 2,
+      "money": 0,
+      "materials": 0,
+      "masks": 0,
+      "gasoline": 0,
+      "armour": 0,
+      "people": 100,
+      "ammo": 0,
+      "price": 50000000
+    },
+    {
+      "id": 2,
+      "level": 3,
+      "money": 0,
+      "materials": 0,
+      "masks": 0,
+      "gasoline": 0,
+      "armour": 0,
+      "people": 200,
+      "ammo": 0,
+      "price": 150000000
+    },
+    {
+      "id": 2,
+      "level": 4,
+      "money": 0,
+      "materials": 0,
+      "masks": 0,
+      "gasoline": 0,
+      "armour": 0,
+      "people": 350,
+      "ammo": 0,
+      "price": 350000000
+    },
+    {
+      "id": 2,
+      "level": 5,
+      "money": 0,
+      "materials": 0,
+      "masks": 0,
+      "gasoline": 0,
+      "armour": 0,
+      "people": 500,
+      "ammo": 0,
+      "price": 500000000
+    },
+    {
+      "id": 2,
+      "level": 6,
+      "money": 0,
+      "materials": 0,
+      "masks": 0,
+      "gasoline": 0,
+      "armour": 0,
+      "people": 700,
+      "ammo": 0,
+      "price": 750000000
+    },
+    {
+      "id": 2,
+      "level": 7,
+      "money": 0,
+      "materials": 0,
+      "masks": 0,
+      "gasoline": 0,
+      "armour": 0,
+      "people": 1000,
+      "ammo": 0,
+      "price": 1000000000
+    }
+  ],
+  "RewardTop": [
+    {
+      "place": 0,
+      "accessories_object_id": 7389,
+      "accessories_time": 3,
+      "accessories_gameId": 453,
+      "additional_car": 3,
+      "money_reward": 5000000,
+      "score_reward": 100,
+      "token_reward": 3
+    },
+    {
+      "place": 1,
+      "accessories_object_id": 7389,
+      "accessories_time": 3,
+      "accessories_gameId": 453,
+      "additional_car": 1,
+      "money_reward": 3000000,
+      "score_reward": 70,
+      "token_reward": 2
+    },
+    {
+      "place": 2,
+      "accessories_object_id": 7389,
+      "accessories_time": 3,
+      "accessories_gameId": 453,
+      "additional_car": 0,
+      "money_reward": 1000000,
+      "score_reward": 30,
+      "token_reward": 1
+    }
+  ],
+  "Shop": [
+    {
+      "id": 1,
+      "title": "Katana",
+      "object_id": 7378,
+      "type": 0,
+      "type_id": 0,
+      "price": 100,
+      "server_id": 442
+    },
+    {
+      "id": 2,
+      "title": "Panama Stone",
+      "object_id": 7344,
+      "type": 0,
+      "type_id": 0,
+      "price": 60,
+      "server_id": 408
+    },
+    {
+      "id": 3,
+      "title": "Urso",
+      "object_id": 7374,
+      "type": 0,
+      "type_id": 0,
+      "price": 100,
+      "server_id": 438
+    },
+    {
+      "id": 4,
+      "title": "Tubarao",
+      "object_id": 7387,
+      "type": 0,
+      "type_id": 0,
+      "price": 100,
+      "server_id": 451
+    },
+    {
+      "id": 5,
+      "title": "Barco",
+      "object_id": 7385,
+      "type": 0,
+      "type_id": 0,
+      "price": 100,
+      "server_id": 449
+    },
+    {
+      "id": 6,
+      "title": "Pacote",
+      "object_id": 7397,
+      "type": 0,
+      "type_id": 0,
+      "price": 50,
+      "server_id": 461
+    },
+    {
+      "id": 7,
+      "title": "Guitarra",
+      "object_id": 7390,
+      "type": 0,
+      "type_id": 0,
+      "price": 60,
+      "server_id": 454
+    },
+    {
+      "id": 8,
+      "title": "Grinch",
+      "object_id": 18397,
+      "type": 0,
+      "type_id": 0,
+      "price": 200,
+      "server_id": 454
+    },
+    {
+      "id": 9,
+      "title": "Oculos Fogos",
+      "object_id": 18401,
+      "type": 0,
+      "type_id": 0,
+      "price": 200,
+      "server_id": 454
+    },
+    {
+      "id": 10,
+      "title": "Sindicato",
+      "object_id": 2641,
+      "type": 1,
+      "type_id": 4,
+      "price": 100,
+      "server_id": 0
+    }
+  ],
+  "Tasks": [
+    {
+      "id": 0,
+      "title": "Atividade",
+      "description": "Para o progresso estavel da familia a atividade de seus membros e importante. Para completar a tarefa e necessario que 5 pessoas da familia joguem no servidor por 1 hora",
+      "money_reward": 80000,
+      "score_reward": 2000,
+      "token_reward": 1
+    },
+    {
+      "id": 1,
+      "title": "Dominio",
+      "description": "Para entrar no ranking das melhores familias e preciso mostrar sua habilidade para outras familias. Para completar a tarefa e necessario capturar e manter pelo menos duas empresas",
+      "money_reward": 200000,
+      "score_reward": 2000,
+      "token_reward": 3
+    },
+    {
+      "id": 2,
+      "title": "Reino",
+      "description": "Ser uma familia TOP nao e facil. Por isso e necessario participar regularmente de capturas e demonstrar atividade. Para completar a tarefa e necessario estar no TOP-3 do ranking de familias",
+      "money_reward": 400000,
+      "score_reward": 2000,
+      "token_reward": 5
+    },
+    {
+      "id": 3,
+      "title": "Reputacao",
+      "description": "Ganhar reputacao da familia e uma tarefa muito importante e responsavel. Para completar a tarefa e necessario ganhar 4000 de reputacao completando missoes e capturando empresas",
+      "money_reward": 500000,
+      "score_reward": 1000,
+      "token_reward": 3
+    }
+  ],
+  "Colors": [
+    {
+      "id": 0,
+      "title": "Branco",
+      "color": "#FFFFFF"
+    },
+    {
+      "id": 1,
+      "title": "Carmesim",
+      "color": "#CD5C5C"
+    },
+    {
+      "id": 2,
+      "title": "Vermelho",
+      "color": "#FF0000"
+    },
+    {
+      "id": 3,
+      "title": "Vermelho escuro",
+      "color": "#8B0000"
+    },
+    {
+      "id": 4,
+      "title": "Rosa claro",
+      "color": "#FFC0CB"
+    },
+    {
+      "id": 5,
+      "title": "Cor de pele",
+      "color": "#FFA07A"
+    },
+    {
+      "id": 6,
+      "title": "Amarelo",
+      "color": "#FFFF00"
+    },
+    {
+      "id": 7,
+      "title": "Dourado",
+      "color": "#FFD700"
+    },
+    {
+      "id": 8,
+      "title": "Roxo",
+      "color": "#EE82EE"
+    },
+    {
+      "id": 9,
+      "title": "Roxo escuro",
+      "color": "#800080"
+    },
+    {
+      "id": 10,
+      "title": "Cinza",
+      "color": "#808080"
+    },
+    {
+      "id": 11,
+      "title": "Prateado",
+      "color": "#C0C0C0"
+    },
+    {
+      "id": 12,
+      "title": "Limao",
+      "color": "#00FF00"
+    },
+    {
+      "id": 13,
+      "title": "Verde",
+      "color": "#008000"
+    },
+    {
+      "id": 14,
+      "title": "Floresta",
+      "color": "#228B22"
+    },
+    {
+      "id": 15,
+      "title": "Azul",
+      "color": "#1E90FF"
+    },
+    {
+      "id": 16,
+      "title": "Azul ceu",
+      "color": "#00BFFF"
+    },
+    {
+      "id": 17,
+      "title": "Areia",
+      "color": "#af9a5b"
+    },
+    {
+      "id": 18,
+      "title": "Lavanda",
+      "color": "#b1b7f1"
+    },
+    {
+      "id": 19,
+      "title": "Turquesa",
+      "color": "#5ba8a4"
+    },
+    {
+      "id": 20,
+      "title": "Rosa",
+      "color": "#b9378f"
+    },
+    {
+      "id": 21,
+      "title": "Eletrico",
+      "color": "#1028f4"
+    },
+    {
+      "id": 22,
+      "title": "Indigo",
+      "color": "#5054ec"
+    },
+    {
+      "id": 23,
+      "title": "Verde brilhante",
+      "color": "#01ff23"
+    },
+    {
+      "id": 24,
+      "title": "Laranja",
+      "color": "#f29527"
+    },
+    {
+      "id": 25,
+      "title": "Bordo",
+      "color": "#6c4559"
+    },
+    {
+      "id": 26,
+      "title": "Lilas",
+      "color": "#f2dafe"
+    },
+    {
+      "id": 27,
+      "title": "Azul claro",
+      "color": "#7eadff"
+    },
+    {
+      "id": 28,
+      "title": "Ametista",
+      "color": "#c95eec"
+    },
+    {
+      "id": 29,
+      "title": "Bordo escuro",
+      "color": "#852048"
+    },
+    {
+      "id": 30,
+      "title": "Azul celeste",
+      "color": "#76b3f2"
+    },
+    {
+      "id": 31,
+      "title": "Mostarda",
+      "color": "#dcb72b"
+    },
+    {
+      "id": 32,
+      "title": "Esmeralda",
+      "color": "#31d166"
+    },
+    {
+      "id": 33,
+      "title": "Azul real",
+      "color": "#3969cd"
+    },
+    {
+      "id": 34,
+      "title": "Azul gelo",
+      "color": "#c9e8f2"
+    }
+  ]
+}
