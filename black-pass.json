@@ -1991,8 +1991,8 @@
       "id": 33,
       "typeId": 3,
       "typeName": "Semanal",
-      Descrição: "Compre qualquer carro na concessionária"
-      "requirementDescription": "Progresso:",
+      "Descrição: "Compre qualquer carro na concessionária"
+      "requirementDescription: "Progresso:",
       "contagem": 1,
       "prêmio": 200,
       "routeId": 145,
