@@ -1,0 +1,375 @@
+[
+  {
+    "name": "Centro de Estilizacao",
+    "footer": [
+      {
+        "name": "Carroceria",
+        "opensType": 0,
+        "names": [
+          {
+            "name": "Cor da carroceria",
+            "opensType": 1,
+            "selectorId": 0,
+            "imageId": "t_color_body_icon"
+          },
+          {
+            "name": "Cor das rodas",
+            "opensType": 1,
+            "selectorId": 1,
+            "imageId": "t_color_disks_icon"
+          },
+          {
+            "name": "Vinils",
+            "opensType": 2,
+            "selectorId": 2,
+            "imageId": "t_vinyl_icon"
+          }
+        ]
+      },
+      {
+        "name": "Insulfilm",
+        "opensType": 0,
+        "names": [
+          {
+            "name": "Insulfilm dos vidros dianteiros",
+            "opensType": 1,
+            "selectorId": 3,
+            "imageId": "t_toning_front_icon"
+          },
+          {
+            "name": "Insulfilm dos vidros traseiros",
+            "opensType": 1,
+            "selectorId": 4,
+            "imageId": "t_toning_back_icon"
+          }
+        ]
+      },
+      {
+        "name": "Sons",
+        "opensType": 0,
+        "names": [
+          {
+            "name": "Buzina",
+            "opensType": 2,
+            "selectorId": 7,
+            "imageId": "t_horn_icon"
+          },
+          {
+            "name": "Som do escapamento",
+            "opensType": 2,
+            "selectorId": 9,
+            "imageId": "t_exhaust_sound_icon"
+          }
+        ]
+      },
+      {
+        "name": "Iluminacao",
+        "opensType": 0,
+        "names": [
+          {
+            "name": "Cor dos farois",
+            "opensType": 1,
+            "selectorId": 10,
+            "imageId": "t_color_light_icon"
+          },
+          {
+            "name": "Cor da iluminacao sob o veiculo",
+            "opensType": 1,
+            "selectorId": 11,
+            "imageId": "t_color_neon_icon"
+          },
+          {
+            "name": "Cor da iluminacao esquerda",
+            "opensType": 1,
+            "selectorId": 12,
+            "imageId": "t_color_neon_left_icon"
+          },
+          {
+            "name": "Cor da iluminacao direita",
+            "opensType": 1,
+            "selectorId": 13,
+            "imageId": "t_color_neon_right_icon"
+          },
+          {
+            "name": "Estroboscopios",
+            "opensType": 2,
+            "selectorId": 14,
+            "imageId": "t_stroboscope_icon"
+          },
+          {
+            "name": "Farol alto",
+            "opensType": 2,
+            "selectorId": 48,
+            "imageId": "t_stroboscope_icon"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Oficina",
+    "footer": [
+      {
+        "name": "Desgaste",
+        "opensType": 3,
+        "selectorId": 15
+      },
+      {
+        "name": "Tuning",
+        "opensType": 0,
+        "names": [
+          {
+            "name": "Aerofolio",
+            "opensType": 2,
+            "selectorId": 16,
+            "imageId": "t_spoiler_icon"
+          },
+          {
+            "name": "Parachoques",
+            "opensType": 2,
+            "selectorId": 17,
+            "imageId": "t_bumper_icon"
+          },
+          {
+            "name": "Saias laterais",
+            "opensType": 2,
+            "selectorId": 18,
+            "imageId": "t_thresholds_icon"
+          },
+          {
+            "name": "Escapamentos",
+            "opensType": 2,
+            "selectorId": 19,
+            "imageId": "t_muffler_icon"
+          },
+          {
+            "name": "Splitter",
+            "opensType": 2,
+            "selectorId": 20,
+            "imageId": "t_splitter_icon"
+          },
+          {
+            "name": "Teto",
+            "opensType": 2,
+            "selectorId": 21,
+            "imageId": "t_roof_icon"
+          },
+          {
+            "name": "Capo",
+            "opensType": 2,
+            "selectorId": 43,
+            "imageId": "t_hood_icon"
+          },
+          {
+            "name": "Porta-malas",
+            "opensType": 2,
+            "selectorId": 44,
+            "imageId": "t_trunk_icon"
+          },
+          {
+            "name": "Alargadores",
+            "opensType": 2,
+            "selectorId": 45,
+            "imageId": "t_fender_extension_icon"
+          },
+          {
+            "name": "Grade do parachoque",
+            "opensType": 2,
+            "selectorId": 46,
+            "imageId": "t_bumper_grill_icon"
+          },
+          {
+            "name": "Aerofolio adicional",
+            "opensType": 2,
+            "selectorId": 47,
+            "imageId": "t_spoiler_icon"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Centro de Pneus",
+    "footer": [
+      {
+        "name": "Altura do solo",
+        "opensType": 0,
+        "names": [
+          {
+            "name": "Altura geral",
+            "opensType": 4,
+            "selectorId": 22,
+            "imageId": "t_full_clearance_icon"
+          },
+          {
+            "name": "Altura individual",
+            "opensType": 4,
+            "selectorId": 23,
+            "imageId": "t_individual_clearance_icon"
+          }
+        ]
+      },
+      {
+        "name": "Rodas",
+        "opensType": 0,
+        "names": [
+          {
+            "name": "Offset das rodas dianteiras",
+            "opensType": 4,
+            "selectorId": 24,
+            "imageId": "t_width_front_wheels_icon"
+          },
+          {
+            "name": "Offset das rodas traseiras",
+            "opensType": 4,
+            "selectorId": 25,
+            "imageId": "t_width_back_wheels_icon"
+          },
+          {
+            "name": "Cambagem das rodas dianteiras",
+            "opensType": 4,
+            "selectorId": 26,
+            "imageId": "t_collapse_front_icon"
+          },
+          {
+            "name": "Cambagem das rodas traseiras",
+            "opensType": 4,
+            "selectorId": 27,
+            "imageId": "t_collapse_back_icon"
+          },
+          {
+            "name": "Largura das rodas dianteiras",
+            "opensType": 4,
+            "selectorId": 28,
+            "imageId": "t_departure_front_wheels_icon"
+          },
+          {
+            "name": "Largura das rodas traseiras",
+            "opensType": 4,
+            "selectorId": 29,
+            "imageId": "t_departure_back_wheels_icon"
+          },
+          {
+            "name": "Raio das rodas",
+            "opensType": 4,
+            "selectorId": 30,
+            "imageId": "t_radius_wheels_icon"
+          }
+        ]
+      },
+      {
+        "name": "Aros",
+        "opensType": 0,
+        "names": [
+          {
+            "name": "Aros",
+            "opensType": 2,
+            "selectorId": 31,
+            "imageId": "t_disks_icon"
+          },
+          {
+            "name": "Cores dos aros",
+            "opensType": 1,
+            "selectorId": 32,
+            "imageId": "t_color_disks_icon"
+          }
+        ]
+      },
+      {
+        "name": "Suspensao",
+        "opensType": 0,
+        "names": [
+          {
+            "name": "Instalar hidraulica",
+            "opensType": 2,
+            "selectorId": 34,
+            "imageId": "t_hydraulics_icon"
+          },
+          {
+            "name": "Instalar suspensao a ar",
+            "opensType": 2,
+            "selectorId": 35,
+            "imageId": "t_pnevmo_icon"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Centro Tecnico",
+    "footer": [
+      {
+        "name": "Tuning",
+        "opensType": 0,
+        "names": [
+          {
+            "name": "Diferenciais",
+            "opensType": 2,
+            "selectorId": 36,
+            "imageId": "t_differential_icon"
+          },
+          {
+            "name": "Freios",
+            "opensType": 2,
+            "selectorId": 37,
+            "imageId": "t_brakers_icon"
+          },
+          {
+            "name": "Turbina",
+            "opensType": 2,
+            "selectorId": 38,
+            "imageId": "t_air_filter_icon"
+          },
+          {
+            "name": "Motores",
+            "opensType": 2,
+            "selectorId": 39,
+            "imageId": "t_engine_icon"
+          },
+          {
+            "name": "Superchargers",
+            "opensType": 2,
+            "selectorId": 40,
+            "imageId": "t_supercharger_icon"
+          }
+        ]
+      },
+      {
+        "name": "Launch control",
+        "opensType": 0,
+        "names": [
+          {
+            "name": "Launch control",
+            "opensType": 2,
+            "selectorId": 41,
+            "imageId": "t_launch_control"
+          }
+        ]
+      },
+      {
+        "name": "Nitro",
+        "opensType": 0,
+        "names": [
+          {
+            "name": "Nitro",
+            "opensType": 2,
+            "selectorId": 42,
+            "imageId": "t_nitro_icon"
+          }
+        ]
+      },
+      {
+        "name": "Subwoofer",
+        "opensType": 0,
+        "names": [
+          {
+            "name": "Subwoofer",
+            "opensType": 2,
+            "selectorId": 49,
+            "imageId": "subscribe_music"
+          }
+        ]
+      }
+    ]
+  }
+]
