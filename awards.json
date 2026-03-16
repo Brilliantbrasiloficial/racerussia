@@ -1,0 +1,191 @@
+{
+  "awardsTypes": [
+    {
+      "id": 1,
+      "name": "Experiência de jogo",
+      "image": [
+        "ic_exp.png"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Moeda do jogo",
+      "image": [
+        "ic_prize_money.png"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Black Coins",
+      "image": [
+        "ic_prize_bc.png"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Caixa",
+      "image": [
+        "img_case_daily.png",
+        "img_case_bomj.png",
+        "img_case_standart.png",
+        "img_case_auto.png",
+        "img_case_special.png",
+        "img_case_event1.png",
+        "img_case_event2.png",
+        "img_case_event3.png",
+        "img_case_event4.png",
+        "img_case_event5.png",
+        "img_case_event6.png"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Transporte",
+      "image": [
+        ""
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Pacote",
+      "image": [
+        "ic_pack.svg"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Tokens de família",
+      "image": [
+        "ic_family_coin.svg"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Cupom X2",
+      "image": [
+        "ic_coupon_x2.svg"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "VIP",
+      "image": [
+        "ic_vip_silver.svg",
+        "ic_vip_gold.svg",
+        "ic_vip_platinum.svg"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Pontos da temporada",
+      "image": [
+        "ic_bpexp.png"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Item no inventário",
+      "image": [
+        ""
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Força",
+      "image": [
+        "ic_powers.svg"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Subwoofer",
+      "image": [
+        "ic_sub.svg"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Certificado militar",
+      "image": [
+        "ic_military_pass.svg"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Slot adicional para carro",
+      "image": [
+        "ic_car_slot.svg"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Todas as licenças",
+      "image": [
+        "ic_license_all.svg"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Cartão médico",
+      "image": [
+        "ic_coupon_med.svg"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "E-Points",
+      "image": [
+        "ic_e_points.svg"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Cupom de doação",
+      "image": [
+        "ic_coupon_free.svg"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Desconto",
+      "image": [
+        "ic_coupon_sale.svg"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Pó",
+      "image": [
+        "ic_dust.svg"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Legalidade",
+      "image": [
+        "ic_law_up.svg"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Chaves de cofre",
+      "image": [
+        "img_event_res_ny.png"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Conjunto de som",
+      "image": [
+        "img_case_daily.png"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Carteira de motorista categoria B",
+      "image": [
+        "ic_carlicense_b.svg"
+      ]
+    }
+  ]
+}
