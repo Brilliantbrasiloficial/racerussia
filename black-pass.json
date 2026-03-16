@@ -1812,7 +1812,7 @@
       "id": 18,
       "typeId": 13,
       "typeName": "Diário",
-      "descrição": "Mova qualquer item do seu inventário para o porta-malas de um carro"
+      "descrição": "Mova qualquer item do seu inventário para o porta-malas de um carro",
       "requirementDescription": "Progresso:",
       "contagem": 1,
       "prêmio": 300,
