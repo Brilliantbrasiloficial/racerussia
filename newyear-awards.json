@@ -1,0 +1,253 @@
+{
+  "awardsTop": [
+    {
+      "description": "Lykan HyperSport",
+      "place": 1,
+      "description_store": "Livan Sport"
+    },
+    {
+      "description": "Lotus Exige Halloween",
+      "place": 2,
+      "description_store": "Carro de Halloween"
+    },
+    {
+      "description": "Dodge Ram",
+      "place": 3,
+      "description_store": "Dogger 4x4"
+    },
+    {
+      "description": "Subaru BRZ",
+      "place": 4,
+      "description_store": "Syberia BR"
+    },
+    {
+      "description": "Hacker - Cracker",
+      "place": 5
+    },
+    {
+      "description": "Primavera",
+      "place": 6
+    },
+    {
+      "description": "Dancador",
+      "place": 7
+    },
+    {
+      "description": "VIP Platinum 30 d.",
+      "place": 8
+    },
+    {
+      "description": "VIP Gold 30 d.",
+      "place": 9
+    },
+    {
+      "description": "VIP Bronze 30 d.",
+      "place": 10
+    }
+  ],
+  "awardsLevel": [
+    {
+      "description": "null",
+      "place": 0
+    },
+    {
+      "description": "Dinheiro: 1500",
+      "place": 1
+    },
+    {
+      "description": "Experiencia: 1 un.",
+      "place": 2
+    },
+    {
+      "description": "Dinheiro: 2000",
+      "place": 3
+    },
+    {
+      "description": "Donate: 2 AzCoins",
+      "place": 4
+    },
+    {
+      "description": "Prancha de verao",
+      "place": 5
+    },
+    {
+      "description": "Dinheiro: 3000",
+      "place": 6
+    },
+    {
+      "description": "Donate: 3 AzCoins",
+      "place": 7
+    },
+    {
+      "description": "VIP Silver 2 h.",
+      "place": 8
+    },
+    {
+      "description": "Dinheiro: 4000",
+      "place": 9
+    },
+    {
+      "description": "Roupa: Chapeleiro de Alice",
+      "place": 10
+    },
+    {
+      "description": "Donate: 3 AzCoins",
+      "place": 11
+    },
+    {
+      "description": "Sem recompensa",
+      "place": 12
+    },
+    {
+      "description": "Dinheiro: 6000",
+      "place": 13
+    },
+    {
+      "description": "Experiencia: 2",
+      "place": 14
+    },
+    {
+      "description": "VIP Gold 3 h.",
+      "place": 15
+    },
+    {
+      "description": "Donate: 3 AzCoins",
+      "place": 16
+    },
+    {
+      "description": "Dinheiro: 6000",
+      "place": 17
+    },
+    {
+      "description": "Sem recompensa",
+      "place": 18
+    },
+    {
+      "description": "Experiencia: 2",
+      "place": 19
+    },
+    {
+      "description": "MB G63 temporario por 3 h.",
+      "place": 20,
+      "description_store": "Gelik temporario por 3 h."
+    },
+    {
+      "description": "Dinheiro: 7000",
+      "place": 21
+    },
+    {
+      "description": "VIP Gold 5 h.",
+      "place": 22
+    },
+    {
+      "description": "Sem recompensa",
+      "place": 23
+    },
+    {
+      "description": "Experiencia: 3",
+      "place": 24
+    },
+    {
+      "description": "Dinheiro: 20000",
+      "place": 25
+    },
+    {
+      "description": "Donate: 3 AzCoins",
+      "place": 26
+    },
+    {
+      "description": "100 pontos de BP",
+      "place": 27
+    },
+    {
+      "description": "Sem recompensa",
+      "place": 28
+    },
+    {
+      "description": "VIP Gold 10 h.",
+      "place": 29
+    },
+    {
+      "description": "Mochila 'Gatinho'",
+      "place": 30
+    },
+    {
+      "description": "Donate: 4 AzCoins",
+      "place": 31
+    },
+    {
+      "description": "Dinheiro: 8000",
+      "place": 32
+    },
+    {
+      "description": "Experiencia: 4",
+      "place": 33
+    },
+    {
+      "description": "Urus temporario por 6 h.",
+      "place": 34,
+      "description_store": "Lumus temporario por 6 h."
+    },
+    {
+      "description": "Roupa: Emelya",
+      "place": 35
+    },
+    {
+      "description": "VIP Platinum 3 h.",
+      "place": 36
+    },
+    {
+      "description": "Sem recompensa",
+      "place": 37
+    },
+    {
+      "description": "Donate: 4 AzCoins",
+      "place": 38
+    },
+    {
+      "description": "Experiencia: 4",
+      "place": 39
+    },
+    {
+      "description": "Dinheiro: 50000",
+      "place": 40
+    },
+    {
+      "description": "VIP Platinum 3 dias",
+      "place": 41
+    },
+    {
+      "description": "Sem recompensa",
+      "place": 42
+    },
+    {
+      "description": "Huracan temporario por 6 h.",
+      "place": 43,
+      "description_store": "Uragan temporario por 6 h."
+    },
+    {
+      "description": "Sem recompensa",
+      "place": 44
+    },
+    {
+      "description": "Experiencia: 5",
+      "place": 45
+    },
+    {
+      "description": "VIP Platinum por 3 dias",
+      "place": 46
+    },
+    {
+      "description": "Acessorio: Asas de Anjo",
+      "place": 47
+    },
+    {
+      "description": "Roupa: Primavera",
+      "place": 48
+    },
+    {
+      "description": "HyperSport PARA SEMPRE",
+      "place": 49
+    }
+  ]
+}
