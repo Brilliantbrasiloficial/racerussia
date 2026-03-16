@@ -1,0 +1,394 @@
+{
+  "array": [
+    {
+      "id": 1,
+      "name": "Vender licenca",
+      "type": 1,
+      "org": 1
+    },
+    {
+      "id": 2,
+      "name": "Libertar da prisao",
+      "type": 1,
+      "org": 1
+    },
+    {
+      "id": 3,
+      "name": "Emitir documento militar",
+      "type": 1,
+      "org": 2
+    },
+    {
+      "id": 4,
+      "name": "Entregar microfone",
+      "type": 1,
+      "org": 3
+    },
+    {
+      "id": 5,
+      "name": "Realizar revista",
+      "type": 1,
+      "org": 4
+    },
+    {
+      "id": 6,
+      "name": "Colocar algemas",
+      "type": 1,
+      "org": 4
+    },
+    {
+      "id": 7,
+      "name": "Remover algemas",
+      "type": 1,
+      "org": 4
+    },
+    {
+      "id": 8,
+      "name": "Remover da lista de procurados",
+      "type": 1,
+      "org": 4
+    },
+    {
+      "id": 9,
+      "name": "Prender jogador",
+      "type": 1,
+      "org": 4
+    },
+    {
+      "id": 10,
+      "name": "Confiscar habilitacao",
+      "type": 1,
+      "org": 4
+    },
+    {
+      "id": 11,
+      "name": "Colocar no veiculo",
+      "type": 1,
+      "org": 4
+    },
+    {
+      "id": 12,
+      "name": "Conduzir jogador",
+      "type": 1,
+      "org": 4
+    },
+    {
+      "id": 13,
+      "name": "Retirar jogador do veiculo",
+      "type": 1,
+      "org": 4
+    },
+    {
+      "id": 14,
+      "name": "Realizar revista",
+      "type": 1,
+      "org": 5
+    },
+    {
+      "id": 15,
+      "name": "Colocar algemas",
+      "type": 1,
+      "org": 5
+    },
+    {
+      "id": 16,
+      "name": "Remover algemas",
+      "type": 1,
+      "org": 5
+    },
+    {
+      "id": 17,
+      "name": "Confiscar habilitacao",
+      "type": 1,
+      "org": 5
+    },
+    {
+      "id": 18,
+      "name": "Colocar no veiculo",
+      "type": 1,
+      "org": 5
+    },
+    {
+      "id": 19,
+      "name": "Conduzir jogador",
+      "type": 1,
+      "org": 5
+    },
+    {
+      "id": 20,
+      "name": "Retirar jogador do veiculo",
+      "type": 1,
+      "org": 5
+    },
+    {
+      "id": 21,
+      "name": "Ver multas",
+      "type": 1,
+      "org": 5
+    },
+    {
+      "id": 22,
+      "name": "Realizar revista",
+      "type": 1,
+      "org": 6
+    },
+    {
+      "id": 23,
+      "name": "Colocar algemas",
+      "type": 1,
+      "org": 6
+    },
+    {
+      "id": 24,
+      "name": "Remover algemas",
+      "type": 1,
+      "org": 6
+    },
+    {
+      "id": 25,
+      "name": "Conduzir jogador",
+      "type": 1,
+      "org": 6
+    },
+    {
+      "id": 26,
+      "name": "Realizar revista",
+      "type": 1,
+      "org": 7
+    },
+    {
+      "id": 27,
+      "name": "Colocar algemas",
+      "type": 1,
+      "org": 7
+    },
+    {
+      "id": 28,
+      "name": "Remover algemas",
+      "type": 1,
+      "org": 7
+    },
+    {
+      "id": 29,
+      "name": "Conduzir jogador",
+      "type": 1,
+      "org": 7
+    },
+    {
+      "id": 30,
+      "name": "Dar alta do hospital",
+      "type": 1,
+      "org": 8
+    },
+    {
+      "id": 31,
+      "name": "Curar",
+      "type": 1,
+      "org": 8
+    },
+    {
+      "id": 32,
+      "name": "Alterar sexo",
+      "type": 1,
+      "org": 8
+    },
+    {
+      "id": 33,
+      "name": "Emitir cartao medico",
+      "type": 1,
+      "org": 8
+    },
+    {
+      "id": 34,
+      "name": "Prescrever medicamento",
+      "type": 1,
+      "org": 8
+    },
+    {
+      "id": 35,
+      "name": "Demitir das forcas de seguranca",
+      "type": 1,
+      "org": 7
+    },
+    {
+      "id": 36,
+      "name": "Iniciar visita",
+      "type": 1,
+      "org": 6
+    },
+    {
+      "id": 37,
+      "name": "Encerrar visita",
+      "type": 1,
+      "org": 6
+    },
+    {
+      "id": 38,
+      "name": "Aplicar advertencia ao preso",
+      "type": 1,
+      "org": 6
+    },
+    {
+      "id": 39,
+      "name": "Remover advertencia do preso",
+      "type": 1,
+      "org": 6
+    },
+    {
+      "id": 40,
+      "name": "Conceder recompensa ao preso",
+      "type": 1,
+      "org": 6
+    },
+    {
+      "id": 41,
+      "name": "Colocar em solitaria",
+      "type": 1,
+      "org": 6
+    },
+    {
+      "id": 42,
+      "name": "Liberar da solitaria",
+      "type": 1,
+      "org": 6
+    },
+    {
+      "id": 43,
+      "name": "Emitir passe para visita",
+      "type": 1,
+      "org": 6
+    },
+    {
+      "id": 44,
+      "name": "Contratar jogador",
+      "type": 1,
+      "org": 9
+    },
+    {
+      "id": 45,
+      "name": "Demitir jogador",
+      "type": 1,
+      "org": 9
+    },
+    {
+      "id": 46,
+      "name": "Promover jogador",
+      "type": 1,
+      "org": 9
+    },
+    {
+      "id": 47,
+      "name": "Rebaixar jogador",
+      "type": 1,
+      "org": 9
+    },
+    {
+      "id": 48,
+      "name": "Aplicar advertencia ao jogador",
+      "type": 1,
+      "org": 9
+    },
+    {
+      "id": 49,
+      "name": "Remover advertencia",
+      "type": 1,
+      "org": 9
+    },
+    {
+      "id": 50,
+      "name": "Alterar aparencia",
+      "type": 1,
+      "org": 9
+    },
+    {
+      "id": 51,
+      "name": "Aceitar na familia",
+      "type": 2,
+      "org": 0
+    },
+    {
+      "id": 52,
+      "name": "Vender casa",
+      "type": 2,
+      "org": 0
+    },
+    {
+      "id": 53,
+      "name": "Adicionar morador na casa",
+      "type": 2,
+      "org": 0
+    },
+    {
+      "id": 54,
+      "name": "Vender negocio",
+      "type": 2,
+      "org": 0
+    },
+    {
+      "id": 55,
+      "name": "Vender posto de combustivel",
+      "type": 2,
+      "org": 0
+    },
+    {
+      "id": 56,
+      "name": "Mostrar passaporte",
+      "type": 3,
+      "org": 0
+    },
+    {
+      "id": 57,
+      "name": "Mostrar cartao medico",
+      "type": 3,
+      "org": 0
+    },
+    {
+      "id": 58,
+      "name": "Mostrar licencas",
+      "type": 3,
+      "org": 0
+    },
+    {
+      "id": 59,
+      "name": "Mostrar documento do veiculo",
+      "type": 3,
+      "org": 0
+    },
+    {
+      "id": 60,
+      "name": "Oferecer troca",
+      "type": 3,
+      "org": 0
+    },
+    {
+      "id": 61,
+      "name": "Beijar jogador",
+      "type": 3,
+      "org": 0
+    },
+    {
+      "id": 62,
+      "name": "Fazer yo-ho",
+      "type": 3,
+      "org": 0
+    },
+    {
+      "id": 63,
+      "name": "Presentear flores",
+      "type": 3,
+      "org": 0
+    },
+    {
+      "id": 64,
+      "name": "Transferir materiais",
+      "type": 3,
+      "org": 0
+    },
+    {
+      "id": 65,
+      "name": "Apertar a mao",
+      "type": 3,
+      "org": 0
+    }
+  ]
+}
