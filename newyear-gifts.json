@@ -1,0 +1,156 @@
+{
+  "giftTypes": [
+    {
+      "id": 10,
+      "name": "Dinheiro"
+    },
+    {
+      "id": 20,
+      "name": "Microchips"
+    },
+    {
+      "id": 7,
+      "name": "Automovel"
+    },
+    {
+      "id": 2,
+      "name": "Roupas (skin)"
+    }
+  ],
+  "giftNormal": [
+    {
+      "description": "Moeda do jogo",
+      "description_store": "Moeda do jogo"
+    },
+    {
+      "description": "Microchips Hospedagem de Veiculos",
+      "description_store": "Microchips Hospedagem de Veiculos"
+    }
+  ],
+  "giftLegendary": [
+    {
+      "description": "Microchips Hospedagem de Veiculos (GARANT.)",
+      "description_store": "Microchips Hospedagem de Veiculos (GARANT.)"
+    },
+    {
+      "description": "Automovel: Chevrolet Camaro ZL1",
+      "description_store": "Automovel: Comaric"
+    },
+    {
+      "description": "Automovel: Dodge Charger SRT",
+      "description_store": "Automovel: Charger"
+    },
+    {
+      "description": "Automovel: BMW M5 F10",
+      "description_store": "Automovel: Boomer 5 F10"
+    },
+    {
+      "description": "Automovel: Jeep Wrangler JL",
+      "description_store": "Automovel: Rangler"
+    },
+    {
+      "description": "Automovel: BMW M4 F84",
+      "description_store": "Automovel: Boomer 4 F84"
+    },
+    {
+      "description": "Automovel: Ford Raptor F-150",
+      "description_store": "Automovel: F Pickup"
+    },
+    {
+      "description": "Automovel: Mercedes-Benz GT63s",
+      "description_store": "Automovel: GT63s"
+    },
+    {
+      "description": "Automovel: BMW M4 G82",
+      "description_store": "Automovel: Boomer 4 G82"
+    },
+    {
+      "description": "Automovel: Porsche 911 Carrera S",
+      "description_store": "Automovel: 911 S"
+    },
+    {
+      "description": "Automovel: Mitsubishi Lancer EVO X",
+      "description_store": "Automovel: Mitsu EVA"
+    },
+    {
+      "description": "Automovel: BMW M5 E60",
+      "description_store": "Automovel: Boomer 5 E60"
+    },
+    {
+      "description": "Automovel: Subaru WRX STI",
+      "description_store": "Automovel: Syberia WinR"
+    },
+    {
+      "description": "Automovel: Toyota Supra (A80)",
+      "description_store": "Automovel: Supra (80)"
+    },
+    {
+      "description": "Automovel: Mercedes-Benz A45 AMG",
+      "description_store": "Automovel: A45"
+    },
+    {
+      "description": "Automovel: Mini Cooper",
+      "description_store": "Automovel: Little Coop"
+    },
+    {
+      "description": "Automovel: Nissan Silvia S15",
+      "description_store": "Automovel: Sliva S15"
+    },
+    {
+      "description": "Automovel: Xpeng P7",
+      "description_store": "Automovel: China Car P7"
+    },
+    {
+      "description": "Automovel: Lexus RCF",
+      "description_store": "Automovel: Luxe RCF"
+    },
+    {
+      "description": "Automovel: Ford 1933 HotRod",
+      "description_store": "Automovel: HotRoad 1933"
+    },
+    {
+      "description": "Automovel: Mercedes-Benz 300SL Coupe",
+      "description_store": "Automovel: Old Coupe"
+    },
+    {
+      "description": "Automovel: Porsche 911 Singer",
+      "description_store": "Automovel: Singer 11"
+    },
+    {
+      "description": "Automovel: Infiniti Q60S",
+      "description_store": "Automovel: Trinity 60"
+    },
+    {
+      "description": "Roupas: Homem perigoso",
+      "description_store": "Roupas: Homem perigoso"
+    },
+    {
+      "description": "Roupas: Duques bonito",
+      "description_store": "Roupas: Duques bonito"
+    },
+    {
+      "description": "Roupas: Anime-chan",
+      "description_store": "Roupas: Anime-chan"
+    },
+    {
+      "description": "Roupas: Dancarino",
+      "description_store": "Roupas: Dancarino"
+    },
+    {
+      "description": "Roupas: Blogueiro famoso",
+      "description_store": "Roupas: Blogueiro famoso"
+    },
+    {
+      "description": "Roupas: Aristocrata famoso",
+      "description_store": "Roupas: Aristocrata famoso"
+    },
+    {
+      "description": "Roupas: Gamer famoso",
+      "description_store": "Roupas: Gamer famoso"
+    },
+    {
+      "description": "Roupas: Garota coelha",
+      "description_store": "Roupas: Garota coelha"
+    }
+  ]
+}
