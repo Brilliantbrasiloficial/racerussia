@@ -9,15 +9,13 @@
       "bgImage": "bg_mini_game_events_new_year_additional.png",
       "leftImage": "img_bp_left_ch.png",
       "rightImage": "img_bp_right_ch.png",
-      "dailyTasksPremiumAmount": 10,
+      "dailytaskspremiumAmount": 10,
       "dailyTasksAmount": 6,
-      "recompensaDasTarefasDiárias": 1000,
-      "weeklyTasksPremiumAmount": 7,
-      "quantidade de tarefas semanais": 5,
-      "recompensaDasTarefasSemanais": 5000,
-      "weaklyTasksPremiumAmount": 7,
-      "WeaklyTasksAmount": 5,
-      "recompensaDasTarefasFracas": 5000,
+      "dailytaskrewards": 1000,
+      "weeklytaskspremiumAmount": 7,
+      "weekly_tasks_amount": 5,
+      "weeklytaskrewards": 5000,
+      "weaktaskrewards": 5000,
       "levelExp": 1000,
       "levelPrice": 150,
       "seasonNumber": 20
@@ -59,8 +57,8 @@
   "Nível Premium": [
     {
       "id": 1,
-      "nome": "40 a.C."
-      "descrição": "40 a.C."
+      "nome": "40 a.C.",
+      "descrição": "40 a.C.",
       "raridade": 3,
       "typeId": 3,
       "awardId": 0,
@@ -79,8 +77,8 @@
     },
     {
       "id": 3,
-      "nome": "20 a.C."
-      "descrição": "20 a.C."
+      "nome": "20 a.C.",
+      "descrição": "20 a.C.",
       "raridade": 2,
       "typeId": 3,
       "awardId": 0,
@@ -130,8 +128,8 @@
     },
     {
       "id": 8,
-      "nome": "20 a.C."
-      "descrição": "20 a.C."
+      "nome": "20 a.C.",
+      "descrição": "20 a.C.",
       "raridade": 2,
       "typeId": 3,
       "awardId": 0,
