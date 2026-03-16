@@ -1,0 +1,46 @@
+{
+  "banner": {
+    "title1": "TANPIN X BLACK RUSSIA",
+    "description1": "COLLECTION V1.0\u003Cbr\u003E\u003Cfont color=#FFC700\u003ECYBER",
+    "title2": "Jogue e ganhe dinheiro!",
+    "description2": "Registre-se no \u003Cfont color=#12DD00\u003ETanpin\u003C/font\u003E e dispute por \u003Cfont color=#FFC700\u003Epremios exclusivos\u003C/font\u003E!\u003Cbr\u003E Entre \u003Cfont color=#FFC700\u003Ediariamente\u003C/font\u003E no BLACK RUSSIA,\u003Cbr\u003E complete \u003Cfont color=#FFC700\u003Ediferentes tarefas\u003C/font\u003E e receba \u003Cfont color=#12DD00\u003ETanpin Points\u003C/font\u003E.\u003Cbr\u003EOs melhores dos melhores receberao \u003Cfont color=#FFC700\u003Erecompensas unicas no jogo\u003C/font\u003E!",
+    "title3": "Em breve no Tanpin:",
+    "description3": "Registre-se no \u003Cfont color=#12DD00\u003ETanpin\u003C/font\u003E\u003Cbr\u003Ee complete \u003Cfont color=#FFC700\u003Etarefas no Black Russia",
+    "backGroundImage": "bg_collab_tanpin.png",
+    "leftImage": "ic_logo_collab_tanpin.png",
+    "rightImage": "img_collab_tanpin_banner.png",
+    "buttonText": "Abrir"
+  },
+  "rewards": [
+    {
+      "type": 1,
+      "renderId": "img_punker_tanpin.png",
+      "rarity": 6
+    },
+    {
+      "type": 1,
+      "renderId": "img_cyberman_tanpin.png",
+      "rarity": 5
+    },
+    {
+      "type": 1,
+      "renderId": "img_cybergirl_tanpin.png",
+      "rarity": 5
+    },
+    {
+      "type": 1,
+      "renderId": "img_cyberglasses_tanpin.png",
+      "rarity": 5
+    },
+    {
+      "type": 1,
+      "renderId": "img_gasmask_tanpin.png",
+      "rarity": 4
+    },
+    {
+      "type": 1,
+      "renderId": "img_cyberbackpack_tanpin.png",
+      "rarity": 4
+    }
+  ]
+}
