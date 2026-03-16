@@ -1,0 +1,16 @@
+{
+  "waitTimeDuration": 5,
+  "skipButtonTime": 1,
+  "videos": [
+    {
+      "comment": "cinemática do informante",
+      "videoName": "Dr5_cinematic_1_720p",
+      "skipFlag": 0
+    },
+    {
+      "comment": "fim da missão",
+      "videoName": "Dr5_cinematic_2_720p",
+      "skipFlag": 0
+    }
+  ]
+}
