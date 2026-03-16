@@ -1,0 +1,576 @@
+{
+  "bonus_days": [
+    {
+      "id": 5,
+      "rarity": 2,
+      "name": "SEM-TETO",
+      "description": "CAIXA DE SEM-TETO",
+      "typeId": 4,
+      "internalId": 2,
+      "count": 1,
+      "typeReward": 0
+    },
+    {
+      "id": 10,
+      "rarity": 2,
+      "name": "SEM-TETO",
+      "description": "CAIXA DE SEM-TETO",
+      "typeId": 4,
+      "internalId": 2,
+      "count": 1,
+      "typeReward": 0
+    },
+    {
+      "id": 15,
+      "rarity": 2,
+      "name": "SEM-TETO",
+      "description": "CAIXA DE SEM-TETO",
+      "typeId": 4,
+      "internalId": 2,
+      "count": 1,
+      "typeReward": 0
+    },
+    {
+      "id": 20,
+      "rarity": 3,
+      "name": "SEM-TETO X2",
+      "description": "CAIXA DE SEM-TETO X2",
+      "typeId": 4,
+      "internalId": 2,
+      "count": 2,
+      "typeReward": 0
+    },
+    {
+      "id": 25,
+      "rarity": 4,
+      "name": "PADRÃO",
+      "description": "CAIXA PADRÃO",
+      "typeId": 4,
+      "internalId": 3,
+      "count": 1,
+      "typeReward": 0
+    }
+  ],
+  "main_days": [
+    {
+      "id": 1,
+      "rarity": 2,
+      "name": "VIP GOLD",
+      "description": "VIP GOLD POR 3D.",
+      "typeId": 9,
+      "internalId": 2,
+      "count": 3,
+      "typeReward": 0
+    },
+    {
+      "id": 2,
+      "rarity": 2,
+      "name": "30 BR",
+      "description": "30 BR",
+      "typeId": 3,
+      "internalId": 0,
+      "count": 10,
+      "typeReward": 0
+    },
+    {
+      "id": 3,
+      "rarity": 2,
+      "name": "1500 BP EXP",
+      "description": "1500 BLACK PASS EXP",
+      "typeId": 10,
+      "internalId": 0,
+      "count": 1500,
+      "typeReward": 0
+    },
+    {
+      "id": 4,
+      "rarity": 1,
+      "name": "AUDI 12H.",
+      "description": "AUDI A4 POR 12H.",
+      "nameStore": "AURA 12H.",
+      "descriptionStore": "AURA 4 POR 12H.",
+      "typeId": 5,
+      "internalId": 507,
+      "count": 12,
+      "typeReward": 0,
+      "imageName": "img_aura.png"
+    },
+    {
+      "id": 5,
+      "rarity": 2,
+      "name": "X2 POR 24H",
+      "description": "CUPOM X2 POR 24H.",
+      "typeId": 8,
+      "internalId": 0,
+      "count": 24,
+      "typeReward": 0
+    },
+    {
+      "id": 6,
+      "rarity": 2,
+      "name": "500.000 R$",
+      "description": "500.000 R$",
+      "typeId": 2,
+      "internalId": 0,
+      "count": 500000,
+      "typeReward": 0
+    },
+    {
+      "id": 7,
+      "rarity": 4,
+      "name": "CAPACETE",
+      "description": "CAPACETE SPEEDSTER",
+      "typeId": 11,
+      "internalId": 942,
+      "count": 1,
+      "typeReward": 1,
+      "imageName": "img_14641.png"
+    },
+    {
+      "id": 8,
+      "rarity": 1,
+      "name": "VIP SILVER",
+      "description": "VIP SILVER POR 4D.",
+      "typeId": 9,
+      "internalId": 1,
+      "count": 4,
+      "typeReward": 0
+    },
+    {
+      "id": 9,
+      "rarity": 2,
+      "name": "30 BR",
+      "description": "30 BR",
+      "typeId": 3,
+      "internalId": 0,
+      "count": 30,
+      "typeReward": 0
+    },
+    {
+      "id": 10,
+      "rarity": 2,
+      "name": "1500 BP EXP",
+      "description": "1500 BLACK PASS EXP",
+      "typeId": 10,
+      "internalId": 0,
+      "count": 1500,
+      "typeReward": 0
+    },
+    {
+      "id": 11,
+      "rarity": 1,
+      "name": "CAMRY 12H.",
+      "description": "TOYOTA CAMRY 2019 POR 12H.",
+      "nameStore": "CAMRITA 12H.",
+      "descriptionStore": "CAMRITA 2019 POR 12H.",
+      "typeId": 5,
+      "internalId": 550,
+      "count": 12,
+      "typeReward": 0,
+      "imageName": "img_camrita.png"
+    },
+    {
+      "id": 12,
+      "rarity": 1,
+      "name": "5 EXP",
+      "description": "5 EXP",
+      "typeId": 1,
+      "internalId": 0,
+      "count": 5,
+      "typeReward": 0
+    },
+    {
+      "id": 13,
+      "rarity": 1,
+      "name": "650.000 R$",
+      "description": "650.000 R$",
+      "typeId": 2,
+      "internalId": 0,
+      "count": 650000,
+      "typeReward": 0
+    },
+    {
+      "id": 14,
+      "rarity": 4,
+      "name": "PENDRIVE",
+      "description": "Pendrive",
+      "typeId": 11,
+      "internalId": 6873,
+      "count": 1,
+      "typeReward": 1,
+      "imageName": "img_6873.png"
+    },
+    {
+      "id": 15,
+      "rarity": 1,
+      "name": "VIP SILVER",
+      "description": "VIP SILVER POR 4D.",
+      "typeId": 9,
+      "internalId": 1,
+      "count": 4,
+      "typeReward": 0
+    },
+    {
+      "id": 16,
+      "rarity": 2,
+      "name": "50 BR",
+      "description": "50 BR",
+      "typeId": 3,
+      "internalId": 0,
+      "count": 50,
+      "typeReward": 0
+    },
+    {
+      "id": 17,
+      "rarity": 2,
+      "name": "1500 BP EXP",
+      "description": "1500 BLACK PASS EXP",
+      "typeId": 10,
+      "internalId": 0,
+      "count": 1500,
+      "typeReward": 0
+    },
+    {
+      "id": 18,
+      "rarity": 1,
+      "name": "KIA 12H.",
+      "description": "KIA K5 GT LINE POR 12H.",
+      "nameStore": "ELEGANT 12H.",
+      "descriptionStore": "ELEGANT 5 POR 12H.",
+      "typeId": 5,
+      "internalId": 2584,
+      "count": 12,
+      "typeReward": 0,
+      "imageName": "img_elegant.png"
+    },
+    {
+      "id": 19,
+      "rarity": 1,
+      "name": "7 EXP",
+      "description": "7 EXP",
+      "typeId": 1,
+      "internalId": 0,
+      "count": 7,
+      "typeReward": 0
+    },
+    {
+      "id": 20,
+      "rarity": 1,
+      "name": "1.500.000 ₽",
+      "description": "1.500.000 ₽",
+      "typeId": 2,
+      "internalId": 0,
+      "count": 1500000,
+      "typeReward": 0
+    },
+    {
+      "id": 21,
+      "rarity": 4,
+      "name": "BOLSA",
+      "description": "BOLSA CROSSTRACK",
+      "typeId": 11,
+      "internalId": 943,
+      "count": 1,
+      "typeReward": 1,
+      "imageName": "img_10488.png"
+    },
+    {
+      "id": 22,
+      "rarity": 2,
+      "name": "VIP GOLD",
+      "description": "VIP GOLD POR 3D.",
+      "typeId": 9,
+      "internalId": 2,
+      "count": 3,
+      "typeReward": 0
+    },
+    {
+      "id": 23,
+      "rarity": 2,
+      "name": "50 BR",
+      "description": "50 BR",
+      "typeId": 3,
+      "internalId": 0,
+      "count": 50,
+      "typeReward": 0
+    },
+    {
+      "id": 24,
+      "rarity": 2,
+      "name": "1500 BP EXP",
+      "description": "1500 BLACK PASS EXP",
+      "typeId": 10,
+      "internalId": 0,
+      "count": 1500,
+      "typeReward": 0
+    },
+    {
+      "id": 25,
+      "rarity": 1,
+      "name": "BMW 12H.",
+      "description": "BMW M4 F84 POR 12H.",
+      "nameStore": "BMW 12H.",
+      "descriptionStore": "BMW M4 POR 12H.",
+      "typeId": 5,
+      "internalId": 558,
+      "count": 12,
+      "typeReward": 0,
+      "imageName": "img_boomer.png"
+    },
+    {
+      "id": 26,
+      "rarity": 1,
+      "name": "7 EXP",
+      "description": "7 EXP",
+      "typeId": 1,
+      "internalId": 0,
+      "count": 7,
+      "typeReward": 0
+    },
+    {
+      "id": 27,
+      "rarity": 2,
+      "name": "2.500.000 R$",
+      "description": "2.500.000 R$",
+      "typeId": 2,
+      "internalId": 0,
+      "count": 2500000,
+      "typeReward": 0
+    },
+    {
+      "id": 28,
+      "rarity": 4,
+      "name": "ESPECTRO",
+      "description": "Espectro",
+      "typeId": 11,
+      "internalId": 6874,
+      "count": 1,
+      "typeReward": 1,
+      "imageName": "img_6874.png"
+    },
+    {
+      "id": 29,
+      "rarity": 2,
+      "name": "VIP GOLD",
+      "description": "VIP GOLD POR 7D.",
+      "typeId": 9,
+      "internalId": 2,
+      "count": 7,
+      "typeReward": 0
+    },
+    {
+      "id": 30,
+      "rarity": 2,
+      "name": "50 BR",
+      "description": "50 BR",
+      "typeId": 3,
+      "internalId": 0,
+      "count": 50,
+      "typeReward": 0
+    },
+    {
+      "id": 31,
+      "rarity": 2,
+      "name": "1500 BP EXP",
+      "description": "1500 BLACK PASS EXP",
+      "typeId": 10,
+      "internalId": 0,
+      "count": 1500,
+      "typeReward": 0
+    },
+    {
+      "id": 32,
+      "rarity": 1,
+      "name": "TAYCAN 12H.",
+      "description": "Porsche Taycan Turbo POR 12H.",
+      "nameStore": "Porsche 12H.",
+      "descriptionStore": "Porsche POR 12H.",
+      "typeId": 5,
+      "internalId": 2581,
+      "count": 12,
+      "typeReward": 0,
+      "imageName": "img_taigan.png"
+    },
+    {
+      "id": 33,
+      "rarity": 1,
+      "name": "9 EXP",
+      "description": "9 EXP",
+      "typeId": 1,
+      "internalId": 0,
+      "count": 9,
+      "typeReward": 0
+    },
+    {
+      "id": 34,
+      "rarity": 2,
+      "name": "5.000.000 R$",
+      "description": "5.000.000 R$",
+      "typeId": 2,
+      "internalId": 0,
+      "count": 5000000,
+      "typeReward": 0
+    },
+    {
+      "id": 35,
+      "rarity": 5,
+      "name": "M3 E46",
+      "description": "BMW M3 E46",
+      "nameStore": "M3 E46",
+      "descriptionStore": "M3 E46",
+      "typeId": 5,
+      "internalId": 527,
+      "count": 0,
+      "subCount": 72,
+      "typeReward": 1,
+      "imageName": "img_527.png"
+    }
+  ],
+  "returnMain_Days": [
+    {
+      "id": 1,
+      "rarity": 2,
+      "name": "CARTEIRA B",
+      "description": "CARTEIRA CATEGORIA B POR 7 DIAS",
+      "typeId": 25,
+      "internalId": 1,
+      "count": 168,
+      "typeReward": 0
+    },
+    {
+      "id": 2,
+      "rarity": 2,
+      "name": "10.000 R$",
+      "description": "10.000 R$",
+      "typeId": 2,
+      "internalId": 0,
+      "count": 10000,
+      "typeReward": 0
+    },
+    {
+      "id": 3,
+      "rarity": 2,
+      "name": "2000 BP EXP",
+      "description": "2000 BLACK PASS EXP",
+      "typeId": 10,
+      "internalId": 0,
+      "count": 2000,
+      "typeReward": 0
+    },
+    {
+      "id": 4,
+      "rarity": 2,
+      "name": "25 BC",
+      "description": "25 BC",
+      "typeId": 3,
+      "internalId": 0,
+      "count": 25,
+      "typeReward": 0
+    },
+    {
+      "id": 5,
+      "rarity": 2,
+      "name": "20.000 R$",
+      "description": "20.000 R$",
+      "typeId": 2,
+      "internalId": 0,
+      "count": 20000,
+      "typeReward": 0
+    },
+    {
+      "id": 6,
+      "rarity": 2,
+      "name": "DIÁRIO X2",
+      "description": "CAIXA DIÁRIA X2",
+      "typeId": 4,
+      "internalId": 1,
+      "count": 2,
+      "typeReward": 0
+    },
+    {
+      "id": 7,
+      "rarity": 4,
+      "name": "PACOTE",
+      "description": "PACOTE DE RETORNO",
+      "packRewards": [
+        {
+          "id": 1,
+          "name": "CARTEIRA B POR 7D",
+          "typeId": 25,
+          "internalId": 1,
+          "count": 168
+        },
+        {
+          "id": 2,
+          "name": "100.000 R$",
+          "typeId": 2,
+          "internalId": 0,
+          "count": 100000
+        },
+        {
+          "id": 3,
+          "name": "PADRÃO X1",
+          "typeId": 4,
+          "internalId": 3,
+          "count": 1
+        },
+        {
+          "id": 4,
+          "name": "25 BC",
+          "typeId": 3,
+          "internalId": 0,
+          "count": 25
+        }
+      ],
+      "typeId": -1,
+      "typeReward": 1,
+      "imageName": "img_return_pack.png"
+    }
+  ],
+  "returnBonus_Days": [
+    {
+      "id": 2,
+      "rarity": 2,
+      "name": "DIÁRIO",
+      "description": "DIÁRIO",
+      "typeId": 4,
+      "internalId": 1,
+      "count": 1,
+      "typeReward": 0
+    },
+    {
+      "id": 4,
+      "rarity": 2,
+      "name": "SEM-TETO",
+      "description": "CAIXA DE SEM-TETO",
+      "typeId": 4,
+      "internalId": 2,
+      "count": 1,
+      "typeReward": 0
+    },
+    {
+      "id": 7,
+      "rarity": 2,
+      "name": "SEM-TETO X2",
+      "description": "CAIXA DE SEM-TETO",
+      "typeId": 4,
+      "internalId": 2,
+      "count": 2,
+      "typeReward": 0
+    }
+  ],
+  "properties": {
+    "season_color": "#E2310C",
+    "season_name": "DRIVE DE ANO NOVO",
+    "days_color_one": "#FFFFFF",
+    "days_color_two": "#E2310C",
+    "season_days": 42,
+    "return_name": "BEM-VINDO DE VOLTA!",
+    "return_days": 21,
+    "return_subtitle": "CARTEIRA B + 100.000 R$ + CAIXA PADRÃO + 25 BR",
+    "bg_return_calendar": "bg_return_calendar.png",
+    "ic_return_calendar": "ic_return_calendar.svg",
+    "bg_season_calendar": "bg_mini_game_events_new_year_additional.png",
+    "ic_season_calendar": "ic_season_calendar.svg"
+  }
+}
