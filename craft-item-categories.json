@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {
+      "categoryId": 1,
+      "categoryName": "Componentes",
+      "iconCDN": "ic_category_res.png"
+    },
+    {
+      "categoryId": 2,
+      "categoryName": "Acessórios",
+      "iconCDN": "ic_category_acc.png"
+    },
+    {
+      "categoryId": 3,
+      "categoryName": "Roupas",
+      "iconCDN": "ic_category_skin.png"
+    },
+    {
+      "categoryId": 4,
+      "categoryName": "Transporte",
+      "iconCDN": "ic_category_veh.png"
+    }
+  ]
+}
