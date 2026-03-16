@@ -1,0 +1,67 @@
+{
+  "categoriesFilters": [
+    {
+      "categoryFilterId": 1,
+      "categoryFilterName": "Raridade",
+      "filters": [
+        {
+          "filterId": 1,
+          "filterName": "Comuns",
+          "color": "#FDFDFD"
+        },
+        {
+          "filterId": 2,
+          "filterName": "Incomuns",
+          "color": "#12DD00"
+        },
+        {
+          "filterId": 3,
+          "filterName": "Raros",
+          "color": "#3EA2FF"
+        },
+        {
+          "filterId": 4,
+          "filterName": "Épicos",
+          "color": "#C173FE"
+        },
+        {
+          "filterId": 5,
+          "filterName": "Lendários",
+          "color": "#FFCC00"
+        }
+      ]
+    },
+    {
+      "categoryFilterId": 2,
+      "categoryFilterName": "Recursos",
+      "filters": [
+        {
+          "filterId": 6,
+          "filterName": "Possui recursos",
+          "color": "#FDFDFD"
+        },
+        {
+          "filterId": 7,
+          "filterName": "Sem recursos",
+          "color": "#FDFDFD"
+        }
+      ]
+    },
+    {
+      "categoryFilterId": 3,
+      "categoryFilterName": "Disponibilidade",
+      "filters": [
+        {
+          "filterId": 8,
+          "filterName": "Aberto",
+          "color": "#FDFDFD"
+        },
+        {
+          "filterId": 9,
+          "filterName": "Fechado",
+          "color": "#FDFDFD"
+        }
+      ]
+    }
+  ]
+}
