@@ -1,0 +1,59 @@
+{
+    "categoriesFilters": [
+        {
+            "categoryFilterId": 1,
+            "categoryFilterName": "Categoria",
+            "filters": [
+            {
+                "filterId": 6,
+                "filterName": "Recursos",
+                "iconCDN": "ic_gear.svg",
+                "color": "#FDFDFD"
+            },
+            {
+                "filterId": 7,
+                "filterName": "Acessorios",
+                "iconCDN": "ic_acces.svg",
+                "color": "#FDFDFD"
+            },
+            {
+                "filterId": 8,
+                "filterName": "Roupas",
+                "iconCDN": "ic_clothes.svg",
+                "color": "#FDFDFD"
+            }
+            ]
+        },
+        {
+        "categoryFilterId": 2,
+        "categoryFilterName": "Raridade",
+        "filters": [
+            {
+                "filterId": 1,
+                "filterName": "Comuns",
+                "color": "#FDFDFD"
+            },
+            {
+                "filterId": 2,
+                "filterName": "Incomuns",
+                "color": "#12DD00"
+            },
+            {
+                "filterId": 3,
+                "filterName": "Raros",
+                "color": "#3EA2FF"
+            },
+            {
+                "filterId": 4,
+                "filterName": "Epicos",
+                "color": "#C173FE"
+            },
+            {
+                "filterId": 5,
+                "filterName": "Lendarios",
+                "color": "#FFCC00"
+            }
+        ]
+      }
+    ]
+}
