@@ -1,0 +1,592 @@
+[
+  {
+    "body": [
+      {
+        "body": [
+          {
+            "body": [
+              {
+                "type": 0,
+                "title": "Classe baixa",
+                "column": 2,
+                "text_for_ad": "classe baixa"
+              },
+              {
+                "type": 0,
+                "title": "Classe media",
+                "column": 2,
+                "text_for_ad": "classe media"
+              },
+              {
+                "type": 0,
+                "title": "Classe alta",
+                "column": 2,
+                "text_for_ad": "classe alta"
+              },
+              {
+                "type": 0,
+                "title": "Casa rural",
+                "column": 2,
+                "text_for_ad": "rural"
+              }
+            ],
+            "title": "Classes:"
+          },
+          {
+            "body": [
+              {
+                "type": 0,
+                "title": "c.Arkamas",
+                "column": 3,
+                "text_for_ad": "na c.Arkamas"
+              },
+              {
+                "type": 0,
+                "title": "c.Yuzhny",
+                "column": 3,
+                "text_for_ad": "na c.Yuzhny"
+              },
+              {
+                "type": 0,
+                "title": "v.Batyrevo",
+                "column": 3,
+                "text_for_ad": "na v.Batyrevo"
+              },
+              {
+                "type": 0,
+                "title": "c.Nizhegorodsk",
+                "column": 3,
+                "text_for_ad": "na c.Nizhegorodsk"
+              },
+              {
+                "type": 0,
+                "title": "c.Lytkarino",
+                "column": 3,
+                "text_for_ad": "na c.Lytkarino"
+              },
+              {
+                "type": 0,
+                "title": "c.Koryagino",
+                "column": 3,
+                "text_for_ad": "na c.Koryagino"
+              },
+              {
+                "type": 0,
+                "title": "c.Yegorovka",
+                "column": 3,
+                "text_for_ad": "na c.Yegorovka"
+              },
+              {
+                "type": 0,
+                "title": "c.Rublevka",
+                "column": 3,
+                "text_for_ad": "na c.Rublevka"
+              },
+              {
+                "type": 0,
+                "title": "c.Busaevo",
+                "column": 3,
+                "text_for_ad": "na c.Busaevo"
+              }
+            ],
+            "title": "Localizacao:"
+          }
+        ],
+        "type": 0,
+        "title": "Casa",
+        "column": 1,
+        "text_for_ad": "casa"
+      },
+      {
+        "body": [
+          {
+            "body": [
+              {
+                "type": 0,
+                "title": "Classe baixa",
+                "column": 2,
+                "text_for_ad": "classe baixa"
+              },
+              {
+                "type": 0,
+                "title": "Classe media",
+                "column": 2,
+                "text_for_ad": "classe media"
+              },
+              {
+                "type": 0,
+                "title": "Classe alta",
+                "column": 2,
+                "text_for_ad": "classe alta"
+              }
+            ],
+            "title": "Classes:"
+          },
+          {
+            "body": [
+              {
+                "type": 0,
+                "title": "c.Arkamas",
+                "column": 3,
+                "text_for_ad": "na c.Arkamas"
+              },
+              {
+                "type": 0,
+                "title": "c.Yuzhny",
+                "column": 3,
+                "text_for_ad": "na c.Yuzhny"
+              },
+              {
+                "type": 0,
+                "title": "v.Batyrevo",
+                "column": 3,
+                "text_for_ad": "na v.Batyrevo"
+              },
+              {
+                "type": 0,
+                "title": "c.Nizhegorodsk",
+                "column": 3,
+                "text_for_ad": "na c.Nizhegorodsk"
+              },
+              {
+                "type": 0,
+                "title": "c.Lytkarino",
+                "column": 3,
+                "text_for_ad": "na c.Lytkarino"
+              },
+              {
+                "type": 0,
+                "title": "c.Koryagino",
+                "column": 3,
+                "text_for_ad": "na c.Koryagino"
+              },
+              {
+                "type": 0,
+                "title": "c.Yegorovka",
+                "column": 3,
+                "text_for_ad": "na c.Yegorovka"
+              },
+              {
+                "type": 0,
+                "title": "c.Rublevka",
+                "column": 3,
+                "text_for_ad": "na c.Rublevka"
+              },
+              {
+                "type": 0,
+                "title": "c.Busaevo",
+                "column": 3,
+                "text_for_ad": "na c.Busaevo"
+              }
+            ],
+            "title": "Localizacao:"
+          }
+        ],
+        "type": 0,
+        "title": "Apartamento",
+        "column": 1,
+        "text_for_ad": "apartamento"
+      },
+      {
+        "body": [
+          {
+            "body": [
+              {
+                "type": 0,
+                "title": "Classe baixa",
+                "column": 2,
+                "text_for_ad": "classe baixa"
+              },
+              {
+                "type": 0,
+                "title": "Classe alta",
+                "column": 2,
+                "text_for_ad": "classe alta"
+              }
+            ],
+            "title": "Classes:"
+          },
+          {
+            "body": [
+              {
+                "type": 0,
+                "title": "c.Arkamas",
+                "column": 3,
+                "text_for_ad": "na c.Arkamas"
+              },
+              {
+                "type": 0,
+                "title": "c.Yuzhny",
+                "column": 3,
+                "text_for_ad": "na c.Yuzhny"
+              },
+              {
+                "type": 0,
+                "title": "v.Batyrevo",
+                "column": 3,
+                "text_for_ad": "na v.Batyrevo"
+              },
+              {
+                "type": 0,
+                "title": "c.Nizhegorodsk",
+                "column": 3,
+                "text_for_ad": "na c.Nizhegorodsk"
+              },
+              {
+                "type": 0,
+                "title": "c.Lytkarino",
+                "column": 3,
+                "text_for_ad": "na c.Lytkarino"
+              },
+              {
+                "type": 0,
+                "title": "c.Koryagino",
+                "column": 3,
+                "text_for_ad": "na c.Koryagino"
+              },
+              {
+                "type": 0,
+                "title": "c.Yegorovka",
+                "column": 3,
+                "text_for_ad": "na c.Yegorovka"
+              },
+              {
+                "type": 0,
+                "title": "c.Rublevka",
+                "column": 3,
+                "text_for_ad": "na c.Rublevka"
+              },
+              {
+                "type": 0,
+                "title": "c.Busaevo",
+                "column": 3,
+                "text_for_ad": "na c.Busaevo"
+              }
+            ],
+            "title": "Localizacao:"
+          }
+        ],
+        "type": 0,
+        "title": "Garagem",
+        "column": 1,
+        "text_for_ad": "garagem"
+      },
+      {
+        "body": [
+          {
+            "body": [
+              {
+                "type": 1,
+                "title": "Classe baixa",
+                "column": 2,
+                "text_for_ad": "classe baixa"
+              },
+              {
+                "type": 2,
+                "title": "Classe media",
+                "column": 2,
+                "text_for_ad": "classe media"
+              },
+              {
+                "type": 3,
+                "title": "Classe alta",
+                "column": 2,
+                "text_for_ad": "classe alta"
+              },
+              {
+                "type": 4,
+                "title": "Classe unica",
+                "column": 2,
+                "text_for_ad": "classe unica"
+              },
+              {
+                "type": 5,
+                "title": "Motos",
+                "column": 2,
+                "text_for_ad": "moto"
+              }
+            ],
+            "title": "Classes:"
+          }
+        ],
+        "type": 0,
+        "title": "Veiculo",
+        "column": 1,
+        "text_for_ad": "veiculo"
+      },
+      {
+        "body": [
+          {
+            "body": [
+              {
+                "type": 0,
+                "title": "Posto de combustivel",
+                "column": 2,
+                "text_for_ad": "Posto de combustivel"
+              },
+              {
+                "type": 0,
+                "title": "Loja 24/7",
+                "column": 2,
+                "text_for_ad": "Loja 24/7"
+              },
+              {
+                "type": 0,
+                "title": "Loja de armas",
+                "column": 2,
+                "text_for_ad": "Loja de armas"
+              },
+              {
+                "type": 0,
+                "title": "Loja de roupas",
+                "column": 2,
+                "text_for_ad": "Loja de roupas"
+              },
+              {
+                "type": 0,
+                "title": "Loja de acessorios",
+                "column": 2,
+                "text_for_ad": "Loja de acessorios"
+              },
+              {
+                "type": 0,
+                "title": "Lanchonete",
+                "column": 2,
+                "text_for_ad": "Lanchonete"
+              },
+              {
+                "type": 0,
+                "title": "Cassino",
+                "column": 2,
+                "text_for_ad": "Cassino"
+              },
+              {
+                "type": 0,
+                "title": "Oficina",
+                "column": 2,
+                "text_for_ad": "Oficina"
+              },
+              {
+                "type": 0,
+                "title": "Tuning de suspensao",
+                "column": 2,
+                "text_for_ad": "Tuning de suspensao"
+              },
+              {
+                "type": 0,
+                "title": "Chip tuning",
+                "column": 2,
+                "text_for_ad": "Chip tuning"
+              },
+              {
+                "type": 0,
+                "title": "Tuning de insulfilm",
+                "column": 2,
+                "text_for_ad": "Tuning de insulfilm"
+              },
+              {
+                "type": 0,
+                "title": "Concessionaria CB",
+                "column": 2,
+                "text_for_ad": "Concessionaria CB"
+              },
+              {
+                "type": 0,
+                "title": "Concessionaria CM",
+                "column": 2,
+                "text_for_ad": "Concessionaria CM"
+              },
+              {
+                "type": 0,
+                "title": "Concessionaria CA",
+                "column": 2,
+                "text_for_ad": "Concessionaria CA"
+              },
+              {
+                "type": 0,
+                "title": "Concessionaria de caminhoes",
+                "column": 2,
+                "text_for_ad": "Concessionaria de caminhoes"
+              },
+              {
+                "type": 0,
+                "title": "Concessionaria de motos",
+                "column": 2,
+                "text_for_ad": "Concessionaria de motos"
+              },
+              {
+                "type": 0,
+                "title": "Construtora",
+                "column": 2,
+                "text_for_ad": "Construtora"
+              },
+              {
+                "type": 0,
+                "title": "Quiosque",
+                "column": 2,
+                "text_for_ad": "Quiosque"
+              }
+            ],
+            "title": "Tipos:"
+          },
+          {
+            "body": [
+              {
+                "type": 0,
+                "title": "c.Arkamas",
+                "column": 3,
+                "text_for_ad": "na c.Arkamas"
+              },
+              {
+                "type": 0,
+                "title": "c.Yuzhny",
+                "column": 3,
+                "text_for_ad": "na c.Yuzhny"
+              },
+              {
+                "type": 0,
+                "title": "v.Batyrevo",
+                "column": 3,
+                "text_for_ad": "na v.Batyrevo"
+              },
+              {
+                "type": 0,
+                "title": "c.Nizhegorodsk",
+                "column": 3,
+                "text_for_ad": "na c.Nizhegorodsk"
+              },
+              {
+                "type": 0,
+                "title": "c.Lytkarino",
+                "column": 3,
+                "text_for_ad": "na c.Lytkarino"
+              },
+              {
+                "type": 0,
+                "title": "c.Koryagino",
+                "column": 3,
+                "text_for_ad": "na c.Koryagino"
+              },
+              {
+                "type": 0,
+                "title": "c.Yegorovka",
+                "column": 3,
+                "text_for_ad": "na c.Yegorovka"
+              },
+              {
+                "type": 0,
+                "title": "c.Rublevka",
+                "column": 3,
+                "text_for_ad": "na c.Rublevka"
+              },
+              {
+                "type": 0,
+                "title": "c.Busaevo",
+                "column": 3,
+                "text_for_ad": "na c.Busaevo"
+              }
+            ],
+            "title": "Localizacao:"
+          }
+        ],
+        "type": 0,
+        "title": "Negocio",
+        "column": 1,
+        "text_for_ad": "negocio"
+      },
+      {
+        "body": [
+          {
+            "title": "Lista de acessorios:",
+            "column": 2
+          }
+        ],
+        "type": 6,
+        "title": "Acessorios",
+        "column": 1,
+        "text_for_ad": "ac"
+      }
+    ],
+    "title": "Tipo de propriedade:"
+  },
+  {
+    "body": [
+      {
+        "body": [
+          {
+            "body": [
+              {
+                "type": 0,
+                "title": "Base",
+                "column": 2,
+                "text_for_ad": "Local do evento: base"
+              },
+              {
+                "type": 0,
+                "title": "Estadio",
+                "column": 2,
+                "text_for_ad": "Local do evento: estadio"
+              }
+            ],
+            "title": "Localizacao:"
+          }
+        ],
+        "type": 0,
+        "title": "Arkamas",
+        "column": 1,
+        "text_for_ad": "na OPG Arkamas."
+      },
+      {
+        "body": [
+          {
+            "body": [
+              {
+                "type": 0,
+                "title": "Base",
+                "column": 2,
+                "text_for_ad": "Local do evento: base"
+              },
+              {
+                "type": 0,
+                "title": "Estadio",
+                "column": 2,
+                "text_for_ad": "Local do evento: estadio"
+              }
+            ],
+            "title": "Localizacao:"
+          }
+        ],
+        "type": 0,
+        "title": "Lytkarino",
+        "column": 1,
+        "text_for_ad": "na OPG Lytkarino."
+      },
+      {
+        "body": [
+          {
+            "body": [
+              {
+                "type": 0,
+                "title": "Base",
+                "column": 2,
+                "text_for_ad": "Local do evento: base"
+              },
+              {
+                "type": 0,
+                "title": "Estadio",
+                "column": 2,
+                "text_for_ad": "Local do evento: estadio"
+              }
+            ],
+            "title": "Localizacao:"
+          }
+        ],
+        "type": 0,
+        "title": "Batyrevo",
+        "column": 1,
+        "text_for_ad": "na OPG Batyrevo."
+      }
+    ],
+    "title": "Clube:"
+  }
+]
