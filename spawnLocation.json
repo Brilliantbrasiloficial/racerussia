@@ -1,0 +1,45 @@
+{
+  "_comment_": "place - e o lugar da posicao na lista no cliente (caso Gordeev queira mudar as posicoes para que nao haja dependencias na chave id ( nao mudar no servidor tambem )",
+  "spawnLocation": [
+    {
+      "id": 0,
+      "place": 2,
+      "place_name": "Faccao"
+    },
+    {
+      "id": 1,
+      "place": 0,
+      "place_name": "Estacao"
+    },
+    {
+      "id": 2,
+      "place": 1,
+      "place_name": "Ultimo lugar"
+    },
+    {
+      "id": 3,
+      "place": 3,
+      "place_name": "Garagem"
+    },
+    {
+      "id": 4,
+      "place": 4,
+      "place_name": "Casa"
+    },
+    {
+      "id": 5,
+      "place": 6,
+      "place_name": "Garagem familiar"
+    },
+    {
+      "id": 6,
+      "place": 7,
+      "place_name": "Casa familiar"
+    },
+    {
+      "id": 7,
+      "place": 5,
+      "place_name": "Iate"
+    }
+  ]
+}
