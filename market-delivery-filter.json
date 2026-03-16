@@ -1,0 +1,28 @@
+{
+    "filters": [
+        {
+            "filterId": 1,
+            "filterName": "Todos",
+            "iconCDN": "ic_all.svg",
+            "color": "#FDFDFD"
+        },
+        {
+            "filterId": 2,
+            "filterName": "Recursos",
+            "iconCDN": "ic_gear.svg",
+            "color": "#FDFDFD"
+        },
+        {
+            "filterId": 3,
+            "filterName": "Acessorios",
+            "iconCDN": "ic_acces.svg",
+            "color": "#FDFDFD"
+        },
+        {
+            "filterId": 4,
+            "filterName": "Roupas",
+            "iconCDN": "ic_clothes.svg",
+            "color": "#FDFDFD"
+        }
+    ]
+}
