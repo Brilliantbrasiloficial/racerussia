@@ -11,5 +11,19 @@
     "url": "pink.blackrussia.online",
     "ip": "5.39.108.51",
     "port": "1145"
+  },
+  {
+    "online": "0",
+    "maxonline": "5000",
+    "color": "00ff00",
+    "x2": "false",
+    "key": "1526",
+    "name": "Servidor test",
+    "firstname": "Servidor Test",
+    "secondname": "green.blackrussia.online",
+    "url": "green.blackrussia.online",
+    "ip": "51.75.232.71",
+    "port": "1129
+"
   }
 ]
