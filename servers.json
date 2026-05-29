@@ -1,28 +1,16 @@
 [
-  {
-    "online": "50",
-    "maxonline": "5000",
-    "color": "ff00ff",
-    "x2": "false",
-    "key": "1525",
-    "name": "BLESS RUSSIA",
-    "firstname": "SERVIDOR 1",
-    "secondname": "pink.blackrussia.online",
-    "url": "pink.blackrussia.online",
-    "ip": "54.38.117.76",
-    "port": "1153"
-  },
-  {
-    "online": "0",
-    "maxonline": "5000",
-    "color": "00ff00",
-    "x2": "false",
-    "key": "1526",
-    "name": "Servidor test",
-    "firstname": "Servidor Test",
-    "secondname": "green.blackrussia.online",
-    "url": "green.blackrussia.online",
-    "ip": "51.75.232.71",
-    "port": "1129"
-  }
+    {
+        "id": 1,
+        "online": "50",
+        "maxonline": "5000",
+        "color": "FF2B3B",
+        "x2": "true",
+        "key": "1424",
+        "name": "BLESS BRASIL | RED",
+        "firstname": "RED",
+        "secondname": "",
+        "url": "red.blackrussia.online",
+        "ip": "54.38.117.76",
+        "port": "1153"
+    }
 ]
